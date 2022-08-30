@@ -1,0 +1,5 @@
+body{
+    min-height: 100vh;
+    background-color: #f1f8f9;
+    transition: all 0.3s ease;
+}
